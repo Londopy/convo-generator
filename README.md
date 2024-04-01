@@ -36,3 +36,12 @@ The best dataset generator!
 ### Contact
 
 #### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> _Londo. 
+
+---
+
+![Relese](https://img.shields.io/github/v/release/Londopy/convo-generator) 
+![Size](https://img.shields.io/github/languages/code-size/Londopy/convo-generator) 
+![Files](https://img.shields.io/github/directory-file-count/Londopy/convo-generator) 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Londopy/convo-generator/blob/main/LICENSE) 
+![Deps](https://img.shields.io/hackage-deps/v/cond) 
+![Issues](https://img.shields.io/github/issues/Londopy/convo-generator) 
